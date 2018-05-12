@@ -1,0 +1,32 @@
+_repo: Strive-and-Thriveor-Stories-for-the-Example-and-Encouragement-of-the-Young_35177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35177-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_issued: '2011-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35177'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+tableOfContents: Courage and presence of mind -- The boy who told the truth -- Try
+  again -- Learn to say "no" -- Little Charlie's will -- The student and apprentice.
+title: Strive and Thrive; or, Stories for the Example and Encouragement of the Young
+url: http://www.gutenberg.org/ebooks/35177
